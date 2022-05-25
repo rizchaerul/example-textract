@@ -25,8 +25,8 @@ public class TextractController : ControllerBase
         _ms = new();
 
         var file = new FileStream("SampleFiles/nhs.pdf", FileMode.Open, FileAccess.Read);
-        // var file = new FileStream("SampleFiles/jb-payslip.pdf", FileMode.Open, FileAccess.Read);
         // var file = new FileStream("SampleFiles/resource-solutions-payslip.pdf", FileMode.Open, FileAccess.Read);
+        // var file = new FileStream("SampleFiles/jb-payslip.pdf", FileMode.Open, FileAccess.Read);
         file.CopyTo(_ms);
     }
 

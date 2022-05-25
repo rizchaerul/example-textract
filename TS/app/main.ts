@@ -7,8 +7,8 @@ import { readFile, writeFile } from "fs/promises";
 
 (async () => {
     const file = await readFile("./samples/nhs.pdf");
-    // const file = await readFile("./samples/jb-payslip.pdf");
     // const file = await readFile("./samples/resource-solutions-payslip.pdf");
+    // const file = await readFile("./samples/jb-payslip.pdf");
 
     const client = new TextractClient({
         region: "us-west-2",
