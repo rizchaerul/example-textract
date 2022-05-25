@@ -1,0 +1,1161 @@
+{
+  "$metadata": {
+    "httpStatusCode": 200,
+    "requestId": "7df10e5e-b929-4a05-90db-14a2ee7b2546",
+    "attempts": 1,
+    "totalRetryDelay": 0
+  },
+  "DocumentMetadata": {
+    "Pages": 1
+  },
+  "ExpenseDocuments": [
+    {
+      "ExpenseIndex": 1,
+      "LineItemGroups": [
+        {
+          "LineItemGroupIndex": 1,
+          "LineItems": [
+            {
+              "LineItemExpenseFields": [
+                {
+                  "LabelDetection": {
+                    "Confidence": 99.45328521728516,
+                    "Text": "DESCRIPTION"
+                  },
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 70,
+                    "Text": "ITEM"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 98.76336669921875,
+                    "Text": "Basic Pay"
+                  }
+                },
+                {
+                  "LabelDetection": {
+                    "Confidence": 99.46414184570312,
+                    "Text": "WKD/EARNED"
+                  },
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 70,
+                    "Text": "OTHER"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 98.94379425048828,
+                    "Text": "162.95"
+                  }
+                },
+                {
+                  "LabelDetection": {
+                    "Confidence": 99.44515991210938,
+                    "Text": "PAID/DUE"
+                  },
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 70,
+                    "Text": "QUANTITY"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 98.8153076171875,
+                    "Text": "162.95"
+                  }
+                },
+                {
+                  "LabelDetection": {
+                    "Confidence": 99.43472290039062,
+                    "Text": "RATE"
+                  },
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 70,
+                    "Text": "OTHER"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 98.78084564208984,
+                    "Text": "16.0406"
+                  }
+                },
+                {
+                  "LabelDetection": {
+                    "Confidence": 99.43502044677734,
+                    "Text": "AMOUNT"
+                  },
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 70,
+                    "Text": "PRICE"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 98.89569854736328,
+                    "Text": "2613.75"
+                  }
+                },
+                {
+                  "LabelDetection": {
+                    "Confidence": 99.45777893066406,
+                    "Text": "DESCRIPTION"
+                  },
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 70,
+                    "Text": "OTHER"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 98.94813537597656,
+                    "Text": "PAYE"
+                  }
+                },
+                {
+                  "LabelDetection": {
+                    "Confidence": 99.43635559082031,
+                    "Text": "AMOUNT"
+                  },
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 70,
+                    "Text": "OTHER"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 99.00253295898438,
+                    "Text": "356.80"
+                  }
+                },
+                {
+                  "LabelDetection": {
+                    "Confidence": 99.13867950439453,
+                    "Text": "BALANCE C/F"
+                  },
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 70,
+                    "Text": "OTHER"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 0,
+                    "Text": ""
+                  }
+                },
+                {
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 99.07613372802734,
+                    "Text": "EXPENSE_ROW"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 98.86408996582031,
+                    "Text": "Basic Pay 162.95 162.95 16.0406 2613.75 PAYE 356.80"
+                  }
+                }
+              ]
+            },
+            {
+              "LineItemExpenseFields": [
+                {
+                  "LabelDetection": {
+                    "Confidence": 99.45328521728516,
+                    "Text": "DESCRIPTION"
+                  },
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 70,
+                    "Text": "ITEM"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 98.84830474853516,
+                    "Text": "Business Miles NT"
+                  }
+                },
+                {
+                  "LabelDetection": {
+                    "Confidence": 99.46414184570312,
+                    "Text": "WKD/EARNED"
+                  },
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 70,
+                    "Text": "OTHER"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 99.01590728759766,
+                    "Text": "06/11/20"
+                  }
+                },
+                {
+                  "LabelDetection": {
+                    "Confidence": 99.44515991210938,
+                    "Text": "PAID/DUE"
+                  },
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 70,
+                    "Text": "QUANTITY"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 98.87867736816406,
+                    "Text": "71.00"
+                  }
+                },
+                {
+                  "LabelDetection": {
+                    "Confidence": 99.43472290039062,
+                    "Text": "RATE"
+                  },
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 70,
+                    "Text": "OTHER"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 98.94574737548828,
+                    "Text": "0.5600"
+                  }
+                },
+                {
+                  "LabelDetection": {
+                    "Confidence": 99.43502044677734,
+                    "Text": "AMOUNT"
+                  },
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 70,
+                    "Text": "PRICE"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 98.86113739013672,
+                    "Text": "39.76"
+                  }
+                },
+                {
+                  "LabelDetection": {
+                    "Confidence": 99.45777893066406,
+                    "Text": "DESCRIPTION"
+                  },
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 70,
+                    "Text": "OTHER"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 94.67235565185547,
+                    "Text": "NIA"
+                  }
+                },
+                {
+                  "LabelDetection": {
+                    "Confidence": 99.43635559082031,
+                    "Text": "AMOUNT"
+                  },
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 70,
+                    "Text": "OTHER"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 98.95492553710938,
+                    "Text": "276.88"
+                  }
+                },
+                {
+                  "LabelDetection": {
+                    "Confidence": 99.13867950439453,
+                    "Text": "BALANCE C/F"
+                  },
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 70,
+                    "Text": "OTHER"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 0,
+                    "Text": ""
+                  }
+                },
+                {
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 99.07613372802734,
+                    "Text": "EXPENSE_ROW"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 98.42121887207031,
+                    "Text": "Business Miles NT 06/11/20 71.00 0.5600 39.76 NIA 276.88"
+                  }
+                }
+              ]
+            },
+            {
+              "LineItemExpenseFields": [
+                {
+                  "LabelDetection": {
+                    "Confidence": 99.45328521728516,
+                    "Text": "DESCRIPTION"
+                  },
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 70,
+                    "Text": "ITEM"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 98.96154022216797,
+                    "Text": "Business Miles NT"
+                  }
+                },
+                {
+                  "LabelDetection": {
+                    "Confidence": 99.46414184570312,
+                    "Text": "WKD/EARNED"
+                  },
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 70,
+                    "Text": "OTHER"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 99.02616119384766,
+                    "Text": "30/11/20"
+                  }
+                },
+                {
+                  "LabelDetection": {
+                    "Confidence": 99.44515991210938,
+                    "Text": "PAID/DUE"
+                  },
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 70,
+                    "Text": "QUANTITY"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 99.01026916503906,
+                    "Text": "50.00"
+                  }
+                },
+                {
+                  "LabelDetection": {
+                    "Confidence": 99.43472290039062,
+                    "Text": "RATE"
+                  },
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 70,
+                    "Text": "OTHER"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 99.00467681884766,
+                    "Text": "0.5600"
+                  }
+                },
+                {
+                  "LabelDetection": {
+                    "Confidence": 99.43502044677734,
+                    "Text": "AMOUNT"
+                  },
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 70,
+                    "Text": "PRICE"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 98.95724487304688,
+                    "Text": "28.00"
+                  }
+                },
+                {
+                  "LabelDetection": {
+                    "Confidence": 99.45777893066406,
+                    "Text": "DESCRIPTION"
+                  },
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 70,
+                    "Text": "OTHER"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 98.8373794555664,
+                    "Text": "NHS Pension 9.3%"
+                  }
+                },
+                {
+                  "LabelDetection": {
+                    "Confidence": 99.43635559082031,
+                    "Text": "AMOUNT"
+                  },
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 70,
+                    "Text": "OTHER"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 99.00576782226562,
+                    "Text": "287.00"
+                  }
+                },
+                {
+                  "LabelDetection": {
+                    "Confidence": 99.13867950439453,
+                    "Text": "BALANCE C/F"
+                  },
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 70,
+                    "Text": "OTHER"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 0,
+                    "Text": ""
+                  }
+                },
+                {
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 99.07613372802734,
+                    "Text": "EXPENSE_ROW"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 98.94551086425781,
+                    "Text": "Business Miles NT 30/11/20 50.00 0.5600 28.00 NHS Pension 9.3% 287.00"
+                  }
+                }
+              ]
+            },
+            {
+              "LineItemExpenseFields": [
+                {
+                  "LabelDetection": {
+                    "Confidence": 99.45328521728516,
+                    "Text": "DESCRIPTION"
+                  },
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 70,
+                    "Text": "ITEM"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 99.00440979003906,
+                    "Text": "Outer London\nAfC Absence"
+                  }
+                },
+                {
+                  "LabelDetection": {
+                    "Confidence": 99.46414184570312,
+                    "Text": "WKD/EARNED"
+                  },
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 70,
+                    "Text": "OTHER"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 0,
+                    "Text": ""
+                  }
+                },
+                {
+                  "LabelDetection": {
+                    "Confidence": 99.44515991210938,
+                    "Text": "PAID/DUE"
+                  },
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 70,
+                    "Text": "QUANTITY"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 0,
+                    "Text": ""
+                  }
+                },
+                {
+                  "LabelDetection": {
+                    "Confidence": 99.43472290039062,
+                    "Text": "RATE"
+                  },
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 70,
+                    "Text": "OTHER"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 0,
+                    "Text": ""
+                  }
+                },
+                {
+                  "LabelDetection": {
+                    "Confidence": 99.43502044677734,
+                    "Text": "AMOUNT"
+                  },
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 70,
+                    "Text": "PRICE"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 98.96578216552734,
+                    "Text": "392.06\n80.22"
+                  }
+                },
+                {
+                  "LabelDetection": {
+                    "Confidence": 99.45777893066406,
+                    "Text": "DESCRIPTION"
+                  },
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 70,
+                    "Text": "OTHER"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 98.70661163330078,
+                    "Text": "Student Loan"
+                  }
+                },
+                {
+                  "LabelDetection": {
+                    "Confidence": 99.43635559082031,
+                    "Text": "AMOUNT"
+                  },
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 70,
+                    "Text": "OTHER"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 99.01898193359375,
+                    "Text": "79.00"
+                  }
+                },
+                {
+                  "LabelDetection": {
+                    "Confidence": 99.13867950439453,
+                    "Text": "BALANCE C/F"
+                  },
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 70,
+                    "Text": "OTHER"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 0,
+                    "Text": ""
+                  }
+                },
+                {
+                  "PageNumber": 1,
+                  "Type": {
+                    "Confidence": 99.07613372802734,
+                    "Text": "EXPENSE_ROW"
+                  },
+                  "ValueDetection": {
+                    "Confidence": 98.93119049072266,
+                    "Text": "Outer London\nAfC Absence    392.06\n80.22 Student Loan 79.00"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "SummaryFields": [
+        {
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 96.57019805908203,
+            "Text": "VENDOR_NAME"
+          },
+          "ValueDetection": {
+            "Confidence": 96.29808807373047,
+            "Text": "NHS"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 96.92279815673828,
+            "Text": "TAX OFFICE REF"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 97.5,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 97.35518646240234,
+            "Text": "475/UA56661"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 90.17936706542969,
+            "Text": "PT SAL/WAGE"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 91,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 90.8311996459961,
+            "Text": "31365.00"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 87.27162170410156,
+            "Text": "STANDARD HRS."
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 87.5,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 87.44393157958984,
+            "Text": "37.5"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 85.8760986328125,
+            "Text": "ASSIGNMENT NUMBER"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 86,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 85.93537902832031,
+            "Text": "26427124"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 80.35514831542969,
+            "Text": "NON-TAXABLE PAY"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 83.5,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 83.43392181396484,
+            "Text": "67.76"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 82.83844757080078,
+            "Text": "TAX OFFICE NAME"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 83,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 82.94450378417969,
+            "Text": "Benton Park View"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 82.44770050048828,
+            "Text": "SAL/WAGE"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 82.5,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 82.4456558227539,
+            "Text": "31365.00"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 76.3088607788086,
+            "Text": "PERIOD END DATE"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 79.5,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 78.08383178710938,
+            "Text": "31 DEC 2020"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 69.55288696289062,
+            "Text": "NI CONTS"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 78.5,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 78.24234008789062,
+            "Text": "2307.73"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 77.38834381103516,
+            "Text": "DEPARTMENT"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 77.5,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 76.49774932861328,
+            "Text": "L5 048 Richmond"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 74.48231506347656,
+            "Text": "PENSIONABLE PAY"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 75.5,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 75.32608795166016,
+            "Text": "3086.03"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 73.43263244628906,
+            "Text": "TAXABLE PAY"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 75,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 74.92245483398438,
+            "Text": "2799.03"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 71.671630859375,
+            "Text": "OTHER NI CONTS"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 73.5,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 0,
+            "Text": ""
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 71.7501220703125,
+            "Text": "PENSION CONTS"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 72,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 71.8517837524414,
+            "Text": "2397.11"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 70.55714416503906,
+            "Text": "TAXABLE PAY"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 71,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 70.92777252197266,
+            "Text": "23728.97"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 65.08360290527344,
+            "Text": "TOTAL DEDUCTIONS"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 65.5,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 65.47367095947266,
+            "Text": "999.68"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 55.19936752319336,
+            "Text": "NI PAY"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 65,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 64.55963134765625,
+            "Text": "26359.17"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 62.87501907348633,
+            "Text": "OTHER NI PAY"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 65,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 0,
+            "Text": ""
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 55.68695068359375,
+            "Text": "TAX PAID"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 62,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 61.935935974121094,
+            "Text": "2919.00"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 59.24540328979492,
+            "Text": "PREVIOUS TAXABLE PAY"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 59.500003814697266,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 59.4680061340332,
+            "Text": "0.00"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 57.70145797729492,
+            "Text": "TOTAL PAYMENTS"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 58.499996185302734,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 58.473480224609375,
+            "Text": "3153.79"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 54.82545471191406,
+            "Text": "PENSIONABLE PAY"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 55.5,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 55.42135238647461,
+            "Text": "25775.24"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 50.08196258544922,
+            "Text": "PREVIOUS TAX PAID"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 50.5,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 50.47612762451172,
+            "Text": "0.00"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 47.8645133972168,
+            "Text": "EMPLOYEE NO."
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 48,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 47.963104248046875,
+            "Text": "26427124"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 47.46723937988281,
+            "Text": "LOCATION"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 47.5,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 47.485084533691406,
+            "Text": "Sheen Lane Health Centre"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 46.910911560058594,
+            "Text": "EMPLOYEE NAME"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 47,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 46.918601989746094,
+            "Text": "MR. NERENCHIGE CHATHURA ATHAPA"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 46.88508987426758,
+            "Text": "PAYSCALE DESCRIPTION"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 47,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 46.66496658325195,
+            "Text": "Review Body Band 6"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 44.89801788330078,
+            "Text": "FREQUENCY"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 45,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 44.96737289428711,
+            "Text": "Monthly"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 43.21610641479492,
+            "Text": "PAY METHOD"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 43.5,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 43.478668212890625,
+            "Text": "BACS"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 40.82133865356445,
+            "Text": "TAX PERIOD"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 41.5,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 40.65909957885742,
+            "Text": "9"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 39.329193115234375,
+            "Text": "SD REF NUMBER"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 41.5,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 41.454524993896484,
+            "Text": "10171580"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 30.476057052612305,
+            "Text": "Year To Date"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 30.5,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 30.44239044189453,
+            "Text": "Balances (This Employment Only)"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 84.79061126708984,
+            "Text": "NET PAY"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 86.15391540527344,
+            "Text": "TOTAL"
+          },
+          "ValueDetection": {
+            "Confidence": 86.019287109375,
+            "Text": "2154.11"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 87.11394500732422,
+            "Text": "INC. DATE"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 87.85072326660156,
+            "Text": "INVOICE_RECEIPT_DATE"
+          },
+          "ValueDetection": {
+            "Confidence": 86.54862213134766,
+            "Text": "23 NOV 2021"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 97.29707336425781,
+            "Text": "NI NUMBER"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 98.15493774414062,
+            "Text": "INVOICE_RECEIPT_ID"
+          },
+          "ValueDetection": {
+            "Confidence": 98.09490203857422,
+            "Text": "SJ048693B"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 81.30622100830078,
+            "Text": "PAY DATE"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 83.86878967285156,
+            "Text": "DUE_DATE"
+          },
+          "ValueDetection": {
+            "Confidence": 79.82051086425781,
+            "Text": "22 DEC 2020"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 96.4168930053711,
+            "Text": "TAX CODE"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 97.22416687011719,
+            "Text": "TAX_PAYER_ID"
+          },
+          "ValueDetection": {
+            "Confidence": 95.6044692993164,
+            "Text": "1217L CUMUL"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 88.021728515625,
+            "Text": "NI NUMBER"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 88.79782104492188,
+            "Text": "TAX_PAYER_ID"
+          },
+          "ValueDetection": {
+            "Confidence": 88.74349975585938,
+            "Text": "SJ048693B"
+          }
+        },
+        {
+          "LabelDetection": {
+            "Confidence": 93.53038024902344,
+            "Text": "The Payroll Phone Number is:-"
+          },
+          "PageNumber": 1,
+          "Type": {
+            "Confidence": 94.32723236083984,
+            "Text": "OTHER"
+          },
+          "ValueDetection": {
+            "Confidence": 92.7369613647461,
+            "Text": "01932 722799."
+          }
+        }
+      ]
+    }
+  ]
+}
